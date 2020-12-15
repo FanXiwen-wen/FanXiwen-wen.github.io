@@ -1,9 +1,13 @@
+
+
+```
 title: Linux C exercise
 author: FanXiwen
 date: 2020-12-15 00:34:00 +0800
 categories: [Blogging, Tutorial]
 tags: [favicon]
 toc: false
+```
 
 
 
